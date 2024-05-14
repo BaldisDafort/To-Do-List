@@ -23,8 +23,11 @@ To exit the application, simply select the "Quit" option.
   
 File Structure
 index.js: Main entry point of the application.  
+
 TDL.json: JSON file to store tasks.  
+
 README.md: This file, providing instructions and information about the application.  
+
   
 Author: [BaldisDafort]
   
